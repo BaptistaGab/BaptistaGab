@@ -51,7 +51,7 @@ Integração direta com PostgreSQL e automação de fluxos ETL, otimizando a an�
 ---
 
 ### 📚 Conversão Automática de Artigos Científicos (PDF → XML JATS)
-**Cliente:** Projeto interno — compatível com padrão SciELO Brasil  
+**Cliente:** UFRN/ Fundação Carlos Chagas
 **Stack:** `Python`, `PyMuPDF`, `lxml`, `BeautifulSoup`, `Regex`  
 **Descrição:**  
 Desenvolvimento de ferramentas em **Python** para automatizar a conversão de **artigos científicos em PDF para XML no padrão JATS (Journal Article Tag Suite)**, conforme exigências do **SciELO Brasil**.  
