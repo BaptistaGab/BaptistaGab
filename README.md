@@ -23,7 +23,7 @@
 **Cliente:** Rede de Postos Grupo Azul  
 **Stack:** `Python`, `YOLO`, `OpenCV`, `Power BI`  
 **Descrição:**  
-Desenvolvi uma aplicação em Python com YOLO + OpenCV para detecção de clientes e análise de tempo de fila.  
+Trabalhei numa aplicação em Python com YOLO + OpenCV para detecção de clientes e análise de tempo de fila.  
 Os dados eram exportados em CSV para dashboards no Power BI, possibilitando decisões sobre **jornada, contratações e demissões baseadas em dados reais.**
 
 ---
@@ -50,8 +50,22 @@ Integração direta com PostgreSQL e automação de fluxos ETL, otimizando a an�
 
 ---
 
+### 📚 Conversão Automática de Artigos Científicos (PDF → XML JATS)
+**Cliente:** Projeto interno — compatível com padrão SciELO Brasil  
+**Stack:** `Python`, `PyMuPDF`, `lxml`, `BeautifulSoup`, `Regex`  
+**Descrição:**  
+Desenvolvimento de ferramentas em **Python** para automatizar a conversão de **artigos científicos em PDF para XML no padrão JATS (Journal Article Tag Suite)**, conforme exigências do **SciELO Brasil**.  
+O sistema realiza:
+- Extração e normalização de metadados (título, autores, afiliações, DOI, resumo)  
+- Conversão estruturada de seções, tabelas e referências  
+- Validação automática contra o **schema JATS**  
+
+💡 O objetivo foi agilizar o fluxo de publicação científica, reduzindo erros humanos e garantindo conformidade editorial.
+
+---
+
 ### 💸 Aplicação Windows com Validador de Cédulas (ID003)
-**Cliente:** 112h Group / Fundunesp  
+**Cliente:** Fundunesp / JCM Global 
 **Stack:** `Node.js`, `React.js`, `Electron`, `JavaScript`  
 **Descrição:**  
 Sistema desktop integrado com **validador de cédulas JCM UBA PRO (protocolo ID003)**, com:  
@@ -65,7 +79,7 @@ Sistema desktop integrado com **validador de cédulas JCM UBA PRO (protocolo ID0
 ---
 
 ### 🧰 Sistema Web para Armário Automatizado (Controle de Ferramentas)
-**Cliente:** Projeto interno — MJ Ferramentas  
+**Cliente:** MJ Ferramentas  
 **Stack:** `JavaScript`, `HTML`, `CSS`, `APIs REST`  
 **Descrição:**  
 Aplicação web integrada a **armário automatizado**, atuando como um **almoxarifado inteligente**.  
@@ -91,7 +105,7 @@ Atualmente desenvolvo aplicações sob demanda para empresas e instituições, c
 ## 📫 Contato
 
 📧 **E-mail:** [gabrielbaptista096@gmail.com](mailto:gabrielbaptista096@gmail.com)  
-💼 **LinkedIn:** [https://linkedin.com/in/gabrielbaptistaestrela](https://www.linkedin.com/in/gabriel-baptista-110aa922b/)  
+💼 **LinkedIn:** [https://linkedin.com/in/gabrielbaptista](https://www.linkedin.com/in/gabriel-baptista-110aa922b/)  
 💻 **GitHub:** [github.com/iamGeedle](https://github.com/iamGeedle)
 
 ---
