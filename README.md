@@ -51,7 +51,7 @@ Integração direta com PostgreSQL e automação de fluxos ETL, otimizando a an�
 ---
 
 ### 📚 Conversão Automática de Artigos Científicos (PDF → XML JATS)
-**Cliente:** UFRN/ Fundação Carlos Chagas
+**Cliente:** UFRN/ Fundação Carlos Chagas  
 **Stack:** `Python`, `PyMuPDF`, `lxml`, `BeautifulSoup`, `Regex`  
 **Descrição:**  
 Desenvolvimento de ferramentas em **Python** para automatizar a conversão de **artigos científicos em PDF para XML no padrão JATS (Journal Article Tag Suite)**, conforme exigências do **SciELO Brasil**.  
@@ -65,7 +65,7 @@ O sistema realiza:
 ---
 
 ### 💸 Aplicação Windows com Validador de Cédulas (ID003)
-**Cliente:** Fundunesp / JCM Global 
+**Cliente:** Fundunesp / JCM Global  
 **Stack:** `Node.js`, `React.js`, `Electron`, `JavaScript`  
 **Descrição:**  
 Sistema desktop integrado com **validador de cédulas JCM UBA PRO (protocolo ID003)**, com:  
