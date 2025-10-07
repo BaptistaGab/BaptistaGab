@@ -33,7 +33,11 @@ Os dados eram exportados em CSV para dashboards no Power BI, possibilitando deci
 **Stack:** `React Native`, `Expo`, `API REST`  
 **Descrição:**  
 Aplicativo mobile (Android/iOS) que consome APIs internas do TESC para **monitorar o fluxo da via de entrada**.  
-A interface muda dinamicamente conforme o status da via, enviando **notificações automáticas aos usuários**.
+A interface muda dinamicamente conforme o status da via, enviando **notificações automáticas aos usuários**.  
+
+📱 **Baixe agora:**  
+[![App Store](https://img.shields.io/badge/iOS-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/tesc/id6737557214)
+[![Google Play](https://img.shields.io/badge/Android-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.gabe.bap.TESC)
 
 ---
 
