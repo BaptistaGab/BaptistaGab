@@ -80,7 +80,7 @@ Sistema desktop integrado com **validador de cédulas JCM UBA PRO (protocolo ID0
 
 ### 🧰 Sistema Web para Armário Automatizado (Controle de Ferramentas)
 **Cliente:** MJ Ferramentas  
-**Stack:** `JavaScript`, `HTML`, `CSS`, `APIs REST`  
+**Stack:** `Django`, `JavaScript`, `HTML`, `CSS`, `APIs REST`  
 **Descrição:**  
 Aplicação web integrada a **armário automatizado**, atuando como um **almoxarifado inteligente**.  
 Permite controle de estoque, registro de movimentações e comunicação direta com microcontroladores via API.
