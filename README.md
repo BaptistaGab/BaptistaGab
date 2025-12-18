@@ -19,8 +19,7 @@
 
 ## 🧠 Projetos Principais
 
-### 🟦 Análise de Fluxo de Clientes em Rede de Postos de Combustível
-**Cliente:** Rede de Postos Grupo Azul  
+### 🟦 Análise de Fluxo de Clientes em Rede de Postos de Combustível 
 **Stack:** `Python`, `YOLO`, `OpenCV`, `Power BI`  
 **Descrição:**  
 Trabalhei numa aplicação em Python com YOLO + OpenCV para detecção de clientes e análise de tempo de fila.  
@@ -28,21 +27,16 @@ Os dados eram exportados em CSV para dashboards no Power BI, possibilitando deci
 
 ---
 
-### ⚓ Aplicativo TESC — Terminal Portuário de Santa Catarina
-**Cliente:** TESC (Terminal Portuário de Santa Catarina)  
+### ⚓ Aplicativo Mobile  
 **Stack:** `React Native`, `Expo`, `API REST`  
 **Descrição:**  
-Aplicativo mobile (Android/iOS) que consome APIs internas do TESC para **monitorar o fluxo da via de entrada**.  
-A interface muda dinamicamente conforme o status da via, enviando **notificações automáticas aos usuários**.  
-
-📱 **Baixe agora:**  
-[![App Store](https://img.shields.io/badge/iOS-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/tesc/id6737557214)
-[![Google Play](https://img.shields.io/badge/Android-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.gabe.bap.TESC)
+Desenvolvimento de aplicativo mobile em React Native (Expo) com consumo de APIs REST para monitoramento em tempo real do fluxo de entrada do terminal. **.  
+O aplicativo adapta automaticamente sua interface conforme o status operacional da via.**.  
 
 ---
 
 ### 📊 Dashboards e Integrações Power BI
-**Clientes:** Sesi TO, Grupo Azul, Hospitais Regionais  
+**Clientes:** Instituições de ensino, postos de combustível, e hospitais regionais  
 **Stack:** `Power BI`, `PostgreSQL`, `DAX`  
 **Descrição:**  
 Criação de **dashboards dinâmicos** para RH, vendas e atendimento.  
@@ -51,7 +45,7 @@ Integração direta com PostgreSQL e automação de fluxos ETL, otimizando a an�
 ---
 
 ### 📚 Conversão Automática de Artigos Científicos (PDF → XML JATS)
-**Cliente:** UFRN/ Fundação Carlos Chagas  
+**Cliente:** Instituições de ensino 
 **Stack:** `Python`, `PyMuPDF`, `lxml`, `BeautifulSoup`, `Regex`  
 **Descrição:**  
 Desenvolvimento de ferramentas em **Python** para automatizar a conversão de **artigos científicos em PDF para XML no padrão JATS (Journal Article Tag Suite)**, conforme exigências do **SciELO Brasil**.  
@@ -64,11 +58,10 @@ O sistema realiza:
 
 ---
 
-### 💸 Aplicação Windows com Validador de Cédulas (ID003)
-**Cliente:** Fundunesp / JCM Global  
+### 💸 Aplicação Windows com Validador de Cédulas (ID003)  
 **Stack:** `Node.js`, `React.js`, `Electron`, `JavaScript`  
 **Descrição:**  
-Sistema desktop integrado com **validador de cédulas JCM UBA PRO (protocolo ID003)**, com:  
+Sistema desktop integrado com **validador de cédulas (protocolo ID003)**, com:  
 - Cadastro de usuários  
 - Registro de cédulas depositadas  
 - Impressão de comprovantes térmicos (ESC/POS)  
@@ -78,8 +71,7 @@ Sistema desktop integrado com **validador de cédulas JCM UBA PRO (protocolo ID0
 
 ---
 
-### 🧰 Sistema Web para Armário Automatizado (Controle de Ferramentas)
-**Cliente:** MJ Ferramentas  
+### 🧰 Sistema Web para Armário Automatizado (Controle de Ferramentas)  
 **Stack:** `Django`, `JavaScript`, `HTML`, `CSS`, `APIs REST`  
 **Descrição:**  
 Aplicação web integrada a **armário automatizado**, atuando como um **almoxarifado inteligente**.  
@@ -87,8 +79,7 @@ Permite controle de estoque, registro de movimentações e comunicação direta 
 
 ---
 
-### ✏️ Prototipagem e Design de Interface — BIC
-**Cliente:** BIC  
+### ✏️ Prototipagem e Design de Interface 
 **Stack:** `Figma`, `UX/UI Design`  
 **Descrição:**  
 Desenvolvimento de **protótipos interativos em Figma** para o sistema interno de versionamento de planilhas e dashboards de planejamento estratégico, com foco em experiência do usuário e performance visual.
