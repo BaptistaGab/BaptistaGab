@@ -97,7 +97,7 @@ Atualmente desenvolvo aplicações sob demanda para empresas e instituições, c
 
 📧 **E-mail:** [gabrielbaptista096@gmail.com](mailto:gabrielbaptista096@gmail.com)  
 💼 **LinkedIn:** [https://linkedin.com/in/gabrielbaptista](https://www.linkedin.com/in/gabrielbap96/)  
-💻 **GitHub:** [github.com/iamGeedle](https://github.com/BaptistaGab)  
+💻 **GitHub:** [github.com/BaptistaGab](https://github.com/BaptistaGab)  
 📱 **WhatsApp:** [whatsapp.com/gabriel.baptista](https://api.whatsapp.com/send?phone=41997526613)  
 
 ---
