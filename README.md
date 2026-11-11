@@ -25,6 +25,8 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
@@ -59,11 +61,27 @@ Ecossistema completo que cobre o ciclo de vida de um produto no e-commerce — d
 
 ---
 
+
+## 🤖 Agente de atendimento no WhatsApp (IA com regras em código)
+`Python` · `Claude API (tool use)` · `Olist/Tiny API` · `Flask` · `SQLite` · `Cloudflare Tunnel` · `Chart.js`
+
+Agente que atende clientes de autopeças no WhatsApp: identifica a peça (carro, ano, lado, par), consulta estoque ao vivo e histórico de vendas, envia fotos e só informa o preço quando ele bate com o cadastro conferido.
+
+- **Falha fechada:** a decisão de liberar uma peça é feita em **código**, não no prompt; se qualquer fonte falha ou diverge, a conversa vai para um vendedor
+- **Painel ao vivo** para a TV da loja, **dashboard** de métricas (tempo de resposta, escaladas, peças cotadas x vendidas, leads novos) e **chat dos vendedores** na web e no app
+- **Regras editáveis por chat** com aprovação e trilha de auditoria; divisão dos contatos entre vendedores por desempenho
+- **Prompt caching** e controle de custo da API (~80% menos por chamada)
+
+---
 ## 🧩 Outros projetos
 
 ### 🤖 Automação de Marketplaces (Selenium)
 `Python` · `Selenium` · `Google Sheets API`
 Robôs de publicação e manutenção de anúncios em marketplace via ERP: criação de listagens, preenchimento de **compatibilidade veicular**, enriquecimento de categoria, gestão de fotos e **sincronização de estoque** por filtro avançado de SKU. Registro incremental de execuções em Google Sheets como camada de coordenação entre contas.
+
+### 📱 APM App (React Native / Expo)
+`React Native` · `Expo` · `API REST`
+App interno de gestão de estoque, com cadastro, conferência de preço e chat entre vendedores.
 
 ### 🔧 Scripts de correção fiscal e cadastral em massa
 `Python` · `OAuth2` · `REST APIs`
